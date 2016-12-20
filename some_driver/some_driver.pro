@@ -3,10 +3,11 @@ CONFIG += console
 CONFIG -= app_bundle
 CONFIG -= qt
 
-SOURCES += some_driver.c \
+SOURCES += \
     raspy_io.c \
-    ebbchar.c \
-    hello.c
+    external_example_ebbchar.c \
+    external_example_hello.c \
+    external_example_io_driver.c
 
 
 ARCH=arm64
