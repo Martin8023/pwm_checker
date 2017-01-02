@@ -13,4 +13,5 @@
 *.ko
 *.mod.c
 *.order
+*.user
 some_driver/.tmp_versions/
