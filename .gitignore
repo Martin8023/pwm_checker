@@ -1,7 +1,6 @@
 *.o
 *.lst
 *.pnproj
-*.user
 *.eep
 *.hex
 *.map
