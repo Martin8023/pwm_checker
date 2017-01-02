@@ -21,4 +21,5 @@ INCLUDEPATH += $$system(find -L $$SRC_PROJECT_PATH -type d)
 INCLUDEPATH += $$system(find -L $$LINUX_HEADERS_PATH -type d)
 
 OTHER_FILES += \
-    Makefile
+    Makefile \
+    additional_info.txt
