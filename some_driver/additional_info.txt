@@ -1,0 +1,5 @@
+PAGES:
+https://www.raspberrypi.org/documentation/linux/kernel/building.md
+https://www.codeproject.com/articles/1032794/simple-i-o-device-driver-for-raspberrypi
+http://sysprogs.com/VisualKernel/tutorials/raspberry/leddriver/
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/
