@@ -10,3 +10,8 @@
 *.elf
 *.creator
 *.user
+*.cmd
+*.symvers
+*.ko
+*.mod.c
+some_driver/.tmp_versions/
