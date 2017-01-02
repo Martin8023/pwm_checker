@@ -1,0 +1,12 @@
+*.o
+*.lst
+*.pnproj
+*.user
+*.eep
+*.hex
+*.map
+*.config
+*.pnps
+*.elf
+*.creator
+*.user
